@@ -18,4 +18,4 @@ Hey!! 👋
 - 🍎 Know more about me at Nightrider0098.github.io.
 - ⚽ I like to play Football.
 -------
-[![Hitesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Nightrider0098&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Nightrider0098)
+[![Hitesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Nightrider0098&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/Nightrider0098)
